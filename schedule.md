@@ -31,7 +31,7 @@ For the Winter 2022 quarter we will meet twice a week on Tuesday and Thursday at
 | 15  | Tue 02/28/23  | [**Essential UNIX for bioinformatics**](#15) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
 | 16  | Thu 03/02/23  | [**Analyzing sequencing data in the cloud**](#16) <br> A mini-project using AWS EC2 to query, download, decompress and analyze large data sets from the Sequence Read Archive. Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.                                                                                                                                                                                                                                      |
 | 17  | Tue 03/07/23  | [**Vaccination rate mini project**](#17) <br> A topical mini-project using ggplot and dplyr on with the latest state wide COVID-19 vaccination data. Practical considerations and best practices for the exploratory analysis.                                                                                                                                                                                                                                      |
-| 18  | Thu 03/09/23  | **TBD** <br> To be determined. today.                                                                                               |
+| 18  | Thu 03/09/23  | [**Mutational signatures of cancer mini project**](#18) <br> Cancer genomics resources and bioinformatics tools for investigating the molecular basis of cancer. Large scale cancer sequencing projects; The Cancer Genome Atlas; the cBioPortal platform; COSMIC; de novo extraction and assignment of mutational signatures.                                                                                                      |
 | 19  | Tue 03/14/23  | [**Investigating pertussis resurgence mini project**](#19) <br> A topical mini-project using web-scraping,JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to vaccination.                                                                                                                                   |
 | 20 | Thu 03/16/23 | [**Portfolio building and discussion of bioinformatics in industry**](#20) <br>Course summary and review, Making a public facing GitHub pages portfolio of your bioinformatics work; <br> Livestream interview with leading bioinformatics and genomics scientists from industry. <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
 
@@ -634,9 +634,13 @@ A topical mini-project using ggplot and dplyr on with the latest state wide COVI
 
 ---
 <a name="18"></a>
-## 18: TBD.  
+## 18: Mutational signatures of cancer mini project.  
 
-To be updated.   
+**Topics:** 
+A mini-project focussing cancer genomics resources and bioinformatics tools for investigating the molecular basis of cancer and characterization of mutational signatures. Large scale cancer sequencing projects; The Cancer Genome Atlas; the cBioPortal platform; COSMIC; de novo extraction and assignment of mutational signatures.
+
+- Lab: *To Be Updated.*
+- The [cBioPortal](https://www.cbioportal.org/){:.no-push-state}{:target="_blank"} platform .
 
 
 ---
