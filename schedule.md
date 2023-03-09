@@ -642,6 +642,7 @@ A mini-project focussing cancer genomics resources and bioinformatics tools for 
 - Lecture Slides: [Pt. 1]({{ site.baseurl }}/class-material/Mutational_signatures_lecture_BIMM143_WI23_part1.pdf){:.no-push-state}{:target="_blank"}, [Pt. 2]({{ site.baseurl }}/class-material/Mutational_signatures_lecture_BIMM143_WI23_part2.pdf){:.no-push-state}{:target="_blank"},  
 - Lab: *[Investigating mutational signatures of cancer]({{ site.baseurl }}/class-material/Mutational_Signatures.html){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**,  
 - The [cBioPortal](https://www.cbioportal.org/){:.no-push-state}{:target="_blank"} platform .
+- Matirces [lung.txt]({{ site.baseurl }}/class-material/lung.txt){:.no-push-state}, [skin.txt]({{ site.baseurl }}/class-material/skin.txt){:.no-push-state}, [liver.txt]({{ site.baseurl }}/class-material/liver.txt){:.no-push-state}.  
 
 
 ---
