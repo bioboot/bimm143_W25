@@ -639,7 +639,8 @@ A topical mini-project using ggplot and dplyr on with the latest state wide COVI
 **Topics:** 
 A mini-project focussing cancer genomics resources and bioinformatics tools for investigating the molecular basis of cancer and characterization of mutational signatures. Large scale cancer sequencing projects; The Cancer Genome Atlas; the cBioPortal platform; COSMIC; de novo extraction and assignment of mutational signatures.
 
-- Lab: *To Be Updated.*
+- Lecture Slides: [Pt. 1]({{ site.baseurl }}/class-material/Mutational_signatures_lecture_BIMM143_WI23_part1.pdf){:.no-push-state}{:target="_blank"}, [Pt. 2]({{ site.baseurl }}/class-material/Mutational_signatures_lecture_BIMM143_WI23_part2.pdf){:.no-push-state}{:target="_blank"},  
+- Lab: *[Investigating mutational signatures of cancer]({{ site.baseurl }}/class-material/Mutational_Signatures.html){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**,  
 - The [cBioPortal](https://www.cbioportal.org/){:.no-push-state}{:target="_blank"} platform .
 
 
