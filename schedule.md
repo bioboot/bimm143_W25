@@ -677,8 +677,8 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 
 
 **Supporting material:**
-- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/class19_F22.pdf){:.no-push-state}{:target="_blank"},  
-- Ether-pad: [**Feedback**](https://board.net/p/bimm143_f22){:.no-push-state}{:target="_blank"}.  
+- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/class20_W23.pdf){:.no-push-state}{:target="_blank"},  
+- Ether-pad: [**Feedback**](https://board.net/p/bimm143_w23){:.no-push-state}{:target="_blank"}.  
  
 
 
