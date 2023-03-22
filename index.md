@@ -1,10 +1,6 @@
 ---
 layout: welcome
-title: Bioinformatics <br> (BIMM 143, Winter 2023)
-selected_projects:
-  - _projects/welcome-screencast.md
-  - _projects/using-jetstream-for-bioinformatics.md
-more_projects: projects.md
+title: Bioinformatics <br> (BIMM 143, Spring 2023)
 ---
 
 
