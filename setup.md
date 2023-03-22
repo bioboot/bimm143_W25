@@ -27,10 +27,17 @@ Current versions of [Chrome](https://www.google.com/chrome/), [Firefox](http://w
 We will use [Zoom](https://ucsd.zoom.us) on a weekly basis for office hours and other meetings. Please make sure you have Zoom installed and running to allow you to join these meetings.   
 
 ### The data analysis environment **R** and **RStudio**
-R Binaries for Windows, MacOSX and Linux can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest binary version of R for your operating system. As of course launch (Sept 21) the latest release (2021-08-10, "Kick Things") is R 4.1.1.
+R Binaries for Windows, MacOSX and Linux can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest binary version of R for your operating system. As of course launch (Sept 21) the latest release (2023-03-22, "Shortstop Beagle") is R 4.2.3.
 
-After installing R itself we recommend installing [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/#download) (version 1.1.456 or above), a slick visual interface for R. **N.B.** You will want the Open Source **FREE** desktop version.
+After installing R itself we recommend installing [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/#download) (Version 2023.03.0+386 or above), a slick visual interface for R. **N.B.** You will want the Open Source **FREE** desktop version.
 
+
+### RTools for windows
+PC users will benefit from installing [RTool](https://cran.r-project.org/bin/windows/Rtools/). This is needed for building R packages with C/C++/Fortran code from source - something we will describe later in the course. Look for the **Rtools42 installer** link. **N.B. Rtools is only needed for Windows users**.  
+
+
+### Xcode Command Line Tools (Mac only)
+Mac users will benefit from installing *Xcode Command Line Tools*. If you try to run any recognized command line tool in the Terminal application, macOS will prompt you to install these tools. For example. if you try to run `git --version` at the Terminal and don't have this software then you will be prompted to install. You can also install directly from the command line. Open your **Terminal** (found in `/Applications/Utilities`) and type the command `xcode-select --install` this will open a dialog for installation of the command line tools. Note that the time estimate for installation is usually ridiculously off so don't panic.  Also please don't worry if you don't know what this means yet as I will explain when we get to this point in the course.  
 
 
 ### The Bash Shell
@@ -59,8 +66,6 @@ To check if your install worked you can click on the "*Windows Menu button*" > "
 Please install [XQuartz](https://www.xquartz.org) a windowing environment required by some R packages. **N.B. This is only required on macs**. Download the linked DMG file (e.g. `XQuartz-2.8.1.dmg`). Once fully downloaded, double click to launch the installer and follow the regular steps.
 
 
-### (Optional) Apple Xcode Developer Tools (Mac only)
-Only a subset of folks who wish to install R packages from source code (rather than the default binary packages) will need to have Apple's command line tools. I can walk you through this process in class or office hours. Essentially, it boils down to opening a terminal and typing the following command: `xcode-select --install`  Don't worry if you don't know what this means yet as I will explain when we get to this point in the course. 
 
 
 
