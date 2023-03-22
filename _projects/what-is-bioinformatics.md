@@ -9,7 +9,7 @@ screenshot:
 #    1920w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6.jpg
 #    960w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6@0,5x.jpg
 #    480w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6@0,25x.jpg
-video: "https://youtu.be/FNXMFXZR6HU"
+video: "https://www.youtube.com/embed/FNXMFXZR6HU"
 caption: What will students learn in this course?
 description: >
   What is bioinformatics? What areas of bioinformatics will this course introduce?
