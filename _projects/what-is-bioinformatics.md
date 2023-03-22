@@ -14,8 +14,6 @@ caption: What will students learn in this course?
 description: >
   What is bioinformatics? What areas of bioinformatics will this course introduce?
 links:
-  - title: Schedule
-    url: /schedule/
   - title: Watch on YouTube
     url: https://www.youtube.com/watch?v=FNXMFXZR6HU
 ---
