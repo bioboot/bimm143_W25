@@ -30,7 +30,7 @@ A complete listing of class assignments along with anticipated due dates is [ava
 
 
 <br>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGnoUDIjnkmXdN0HfMWPfydILOHSTGk6D6KxFN-I4UcCqBE1oINhlHzbLav8kDT5PZhLeRF5Nfqdx-/pubhtml?gid=442644877&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGnoUDIjnkmXdN0HfMWPfydILOHSTGk6D6KxFN-I4UcCqBE1oINhlHzbLav8kDT5PZhLeRF5Nfqdx-/pubhtml?gid=442644877&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 <br>
 
 Course Director
