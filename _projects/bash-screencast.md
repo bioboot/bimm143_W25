@@ -1,21 +1,16 @@
 ---
-layout: project
+layout: video
 title: UNIX for bioinformatics
 date: 13 Aug 2017
 screenshot:
-  src: https://bioboot.github.io/bggn213_f17/assets/img/unix.jpg
-#  srcset:
-#    1920w: https://qwtel.com/hydejack/assets/img/projects/hyde-v2.jpg
-#    960w: https://qwtel.com/hydejack/assets/img/projects/hyde-v2@0,5x.jpg
-#    480w: https://qwtel.com/hydejack/assets/img/projects/hyde-v2@0,25x.jpg
+  src: https://bioboot.github.io/bggn213_f17/assets/img/unix.jpg  
+video: "https://www.youtube.com/embed/qsDzjQm_Wp0"  
 caption: Most bioinformatics happens on Unix/Linux platforms but why and how do we use Unix?
 description: >
-  Bash is a commonly-used UNIX shell that gives you the power to do text file manipulations more quickly — exactly what we need as bioinformaticians!
+  The UNIX shell gives you the power to do text file manipulations more quickly — exactly what we need as bioinformaticians! 
 links:
-  - title: TryR
-    url: http://tryr.codeschool.com
-  - title: Vimeo
-    url: https://vimeo.com/151178510
+  - title: View on YouTube
+    url: https://youtu.be/qsDzjQm_Wp0
 author: barry
 ---
 

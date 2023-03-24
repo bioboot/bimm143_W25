@@ -10,9 +10,9 @@ screenshot:
 #    960w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6@0,5x.jpg
 #    480w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6@0,25x.jpg
 video: "https://www.youtube.com/embed/cCim7LrQZLY?rel=0"
-caption: A description of the computational setup for “Foundations of Bioinformatics” (BGGN-213).
+caption: A description of the computational setup for the course.
 description: >
-  A description of the computational setup for “Foundations of Bioinformatics” (BGGN-213).
+  This short screen-cast addresses the question of **how do we actually do bioinformatics?** 
 links:
   - title: Download
     url: https://player.vimeo.com/video/234066823?s=151178510_1502823257_930cd93766f9b7a24ee19002da57b6a1&loc=external&context=Vimeo%5CController%5CClipController.main&download=1
@@ -21,7 +21,6 @@ links:
 ---
 
 ## Notes:  
-This third screen-cast addresses the question of **how do we actually do bioinformatics?** 
 
 Many of the most well known bioinformatics tools and databases are online and free to use.
 Indeed we will start off in this course using these online tools and resources. However, we will quickly find that bioinformatics often requires analyzing large complex datasets. And it is just not feasible to do this online. The recommended approach to more advanced analysis, particularly of larger datasets, is to work with a computer that offers UNIX integration.

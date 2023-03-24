@@ -1,6 +1,6 @@
 ---
 layout: video
-title: Setting up your computer with R
+title: A first introduction to R and RStudio
 date: 14 Aug 2017
 screenshot:
   src: https://bioboot.github.io/bggn213_f17/assets/img/rintro.jpg
@@ -8,14 +8,15 @@ screenshot:
 #    1920w: https://qwtel.com/hydejack/assets/img/projects/hyde-v2.jpg
 #    960w: https://qwtel.com/hydejack/assets/img/projects/hyde-v2@0,5x.jpg
 #    480w: https://qwtel.com/hydejack/assets/img/projects/hyde-v2@0,25x.jpg
-caption: How to install R and RStudio for use in BGGN-213.
+video: https://www.youtube.com/embed/Asm2PHOZAcE
+caption: Introduction to R and RStudio, two essential components of the course.
 description: >
   R is powerful data programming language and environment for statistical computing, data analysis and graphics. R is typically used to explore and understand data in an open-ended, highly interactive, iterative way. Learning R will give you the freedom to experiment and problem solve during data analysis — exactly what we need as bioinformaticians!
 links:
   - title: TryR
     url: http://tryr.codeschool.com
-  - title: Vimeo
-    url: https://vimeo.com/151178510
+  - title: View on YouTube
+    url: hhttps://youtu.be/Asm2PHOZAcE
 author: barry
 ---
 
