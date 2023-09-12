@@ -6,34 +6,35 @@ order: 2
 ---
 
 
-For the Spring 2023 quarter we will meet twice a week on Tuesday and Thursday at 9:30-12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Clicking on the topics below will take you to supporting class content including video lectures, hands-on "lab session" sheets, walk-through screencasts, required reading material and homework assignments.
+For the Fall 2023 quarter we will meet twice a week on Tuesday and Thursday at 9:30-12:30 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Clicking on the topics below will take you to supporting class content including video lectures, hands-on "lab session" sheets, walk-through screencasts, required reading material and homework assignments.
 
 <br>
 
-| \# | Date         | Topics for Spring 2023                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| \# | Date         | Topics for Fall 2023                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | :-: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 0  | - | [**Getting Oriented**](#0) <br> Course introduction, Learning goals & expectations, Meet the instructional team. Setup your computer with required software.                                                                                                                                               |
-| 1  | Tue 04/04/23 | [**Welcome to Bioinformatics**](#1) <br> Biology is an information science, History of Bioinformatics, Types of data, Application areas and introduction to upcoming course segments, Hands on with major Bioinformatics databases and key online NCBI and EBI resources                                                                                                                                               |
-| 2  | Thu 04/06/23 | [**Sequence alignment fundamentals, algorithms and applications**](#2) <br> Homology, Sequence similarity, Local and global alignment, classic Needleman-Wunsch, Smith-Waterman and BLAST heuristic approaches, Hands on with dot plots, Needleman-Wunsch and BLAST algorithms highlighting their utility and limitations.                                                                                                                                                 |
-| 3  | Tue 04/11/23 | **Project:** [**Find a gene project assignment**](#21) <br> (Part 1) Principles of database searching, due in 2 weeks. (Part 2) Sequence analysis, structure analysis and general data analysis with R due at the end of the quarter.                                                                                                                                                                                                 |
-| *  | Tue 04/11/23 | **Optional:** [**Advanced sequence alignment and database searching**](#3) <br> Detecting remote sequence similarity, Database searching beyond BLAST, Substitution matrices, Using PSI-BLAST, Profiles and HMMs, Protein structure comparisons as a gold standard.                                                                                                                                                                             |
-| 4  | Thu 04/13/23 | [**Bioinformatics data analysis with R**](#4) <br> Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major R data structures and functions, Using R interactively from the RStudio console. Introducing Rmarkdown documents.                                                                                              |
-| 5  | Tue 04/18/23  | [**Data exploration and visualization in R**](#5) <br> The exploratory data analysis mindset, Data visualization best practices, Simple base graphics (including scatterplots, histograms, bar graphs, dot chats, boxplots and heatmaps), Building more complex charts with ggplot. **N.B. This is a 9:30am TATA 2501 in-person class session.**                                                                                                                                                                                                                                                      |
-| -  | Thu 04/20/23 | No class today  |
-| 6  | Tue 04/25/23 | [**Why, when and how of writing your own R functions**](#6) <br> The basics of writing your own functions that promote code robustness, reduce duplication and facilitate code re-use. Extending functionality and utility with R packages from CRAN and BioConductor, Working with Bio3D for molecular data.                                                                                                                                                                                                                                                                                       |
-| 7  | Thu 04/27/23 | [**Introduction to machine learning for Bioinformatics 1**](#7) <br> Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)                                                                                                                                                                                                                                            |
-| 8  | Tue 05/02/23 | [**Unsupervised learning mini-project**](#8) <br> Longer hands-on session with unsupervised learning analysis of cancer cells further highlighting Practical considerations and best practices for the analysis and visualization of high dimensional datasets                                                                                                                                                                                                            |
-| 9 | Thu 05/04/23  | [**Structural Bioinformatics (pt1)**](#9) <br> Comparative structure and sequence analysis. Working with sequence and structure data in R. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.                                                                                                                                                                                                                                             |
-| 10| Tue 05/09/23 | [**Structural Bioinformatics (pt2 AlphaFold)**](#10) <br> The new age of structural biology. Structure prediction with AlphaFold2 and the importance of learning from Multiple Sequence Alignments (MSAs). ESM-Fold and large language models for protein structure.                                                                                                                                                                              |
-| - | Thu 05/11/23 | [**Halloween Candy Mini-Project**](#33) <br> A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.                                                                                                                                                                              |
-| 11| Tue 05/16/23 | [**Genome informatics and high throughput sequencing**](#11) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC <br> **N.B.** This is an online session\!                                                                                                                                                                              |
-| 12  | Thu 05/18/23 | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#12) <br> RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.                                                                                                                                                                                                                                               |
-| 13  |  Tue 05/23/23 | [**RNA-Seq mini project**](#13) <br> Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.                                                                                                                                                                                                                                                                                  |
-| 14  | Thu 05/25/23  | [**Hands-on with Git and GitHub**](#14) <br> Why you should use a version control system, How to perform common operations with Git. Creating and working with your own GitHub repos and navagating and using those of others.                                                                      |
-| 15  | Tue 05/30/23  | [**Essential UNIX for bioinformatics**](#15) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
-| 16  | Thu 06/01/23  | [**Analyzing sequencing data in the cloud**](#16) <br> A mini-project using AWS EC2 to query, download, decompress and analyze large data sets from the Sequence Read Archive. Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.                                                                                                                                                                                                                                      |
-| 17  | Tue 06/06/23  | [**Investigating pertussis resurgence mini project**](#19) <br> A topical mini-project using web-scraping,JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to vaccination.                                                                                                                                   |
-| 18 | Thu 06/08/23 | [**Portfolio building and discussion of bioinformatics in industry**](#20) <br>Course summary and review, Making a public facing GitHub pages portfolio of your bioinformatics work; <br> Livestream interview with leading bioinformatics and genomics scientists from industry. <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
+| 1  | Tue 10/03/23 | [**Welcome to Bioinformatics**](#1) <br> Biology is an information science, History of Bioinformatics, Types of data, Application areas and introduction to upcoming course segments, Hands on with major Bioinformatics databases and key online NCBI and EBI resources                                                                                                                                               |
+| 2  | Thu 10/05/23 | [**Sequence alignment fundamentals, algorithms and applications**](#2) <br> Homology, Sequence similarity, Local and global alignment, classic Needleman-Wunsch, Smith-Waterman and BLAST heuristic approaches, Hands on with dot plots, Needleman-Wunsch and BLAST algorithms highlighting their utility and limitations.                                                                                                                                                 |
+| 3  | Tue 10/10/23 | **Project:** [**Find a gene project assignment**](#21) <br> (Part 1) Principles of database searching, due in 2 weeks. (Part 2) Sequence analysis, structure analysis and general data analysis with R due at the end of the quarter.                                                                                                                                                                                                 |
+| *  | Tue 10/10/23 | **Optional:** [**Advanced sequence alignment and database searching**](#3) <br> Detecting remote sequence similarity, Database searching beyond BLAST, Substitution matrices, Using PSI-BLAST, Profiles and HMMs, Protein structure comparisons as a gold standard.                                                                                                                                                                             |
+| 4  | Thu 10/12/23 | [**Bioinformatics data analysis with R**](#4) <br> Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major R data structures and functions, Using R interactively from the RStudio console. Introducing Rmarkdown documents.                                                                                              |
+| 5  | Tue 10/17/23  | [**Data exploration and visualization in R**](#5) <br> The exploratory data analysis mindset, Data visualization best practices, Simple base graphics (including scatterplots, histograms, bar graphs, dot chats, boxplots and heatmaps), Building more complex charts with ggplot.                                                                                                                                                                                                                                                       |
+| 6  | Thu 10/19/23 | [**Why, when and how of writing your own R functions**](#6) <br> The basics of writing your own functions that promote code robustness, reduce duplication and facilitate code re-use. Extending functionality and utility with R packages from CRAN and BioConductor, Working with Bio3D for molecular data.                                                                                                                                                                                                                                                                                       |
+| 7  | Tue 10/24/23 | [**Introduction to machine learning for Bioinformatics 1**](#7) <br> Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)                                                                                                                                                                                                                                            |
+| 8  | Thu 10/26/23 | [**Unsupervised learning mini-project**](#8) <br> Longer hands-on session with unsupervised learning analysis of cancer cells further highlighting Practical considerations and best practices for the analysis and visualization of high dimensional datasets                                                                                                                                                                                                            |
+| 9 | Tue 10/31/23 | [**Halloween Candy Mini-Project**](#9) <br> A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.                                                                                                                                                                              |
+| 10 | Thu 11/02/23  | [**Structural Bioinformatics (pt1)**](#10) <br> Comparative structure and sequence analysis. Working with sequence and structure data in R. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.                                                                                                                                                                                                                                             |
+| - | Thu 11/02/23 | [**Structural Bioinformatics (pt2 AlphaFold)**](#99) <br> The new age of structural biology. Structure prediction with AlphaFold2 and the importance of learning from Multiple Sequence Alignments (MSAs). ESM-Fold and large language models for protein structure.                                                                                                                                                                              |
+| 11| Tue 11/07/23 | [**Genome informatics and high throughput sequencing**](#11) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC <br> **N.B.** This is an online session\!                                                                                                                                                                              |
+| 12  | Thu 11/09/23 | [**Veterans Day Holiday**](#12) <br> No class today*. |
+| 13  | Tue 11/14/23 | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#13) <br> RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.                                                                                                                                                                                                                                               |
+| 14  |  Thu 11/16/23 | [**RNA-Seq mini project**](#14) <br> Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.                                                                                                                                                                                                                                                                                  |
+| 15  | Tue 11/21/23  | [**Hands-on with Git and GitHub**](#15) <br> Why you should use a version control system, How to perform common operations with Git. Creating and working with your own GitHub repos and navagating and using those of others.                                                                      |
+| 16  | Thu 11/23/23  | [**Thanksgiving holiday**](#16) <br> No class today.  Happy Thanksgiving! |
+| 17  | Tue 11/28/23  | [**Essential UNIX for bioinformatics**](#17) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
+| 18  | Thu 11/30/23  | [**Analyzing sequencing data in the cloud**](#18) <br> A mini-project using AWS EC2 to query, download, decompress and analyze large data sets from the Sequence Read Archive. Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.                                                                                                                                                                                                                                      |
+| 19  | Tue 12/05/23  | [**Investigating pertussis resurgence mini project**](#19) <br> A topical mini-project using web-scraping,JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to vaccination.                                                                                                                                   |
+| 20 | Thu 12/07/23 | [**Portfolio building and discussion of bioinformatics in industry**](#20) <br>Course summary and review, Making a public facing GitHub pages portfolio of your bioinformatics work; <br> Livestream interview with leading bioinformatics and genomics scientists from industry. <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
 
 
 
@@ -402,9 +403,21 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 
 ---
-<a name="9"></a> 
+<a name="9"></a>
+## 9: Halloween Candy Mini-Project
 
-## 9: Structural Bioinformatics (pt1)      
+**Topics:** 
+A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the analysis and visualization of high dimensional datasets.  
+
+- Lab: [Mini-Project: Exploratory analysis of Halloween cand]({{ site.baseurl }}/class-material/Halloween_candy.html){:.no-push-state}{:target="_blank"}.   
+
+
+
+
+---
+<a name="10"></a> 
+
+## 10: Structural Bioinformatics (pt1)      
 **Topics**: Protein structure function relationships, Protein structure and visualization resources, Modeling energy as a function of structure, Homology modeling, AlphaFold, Predicting functional dynamics, Inferring protein function from structure.
 
 **Goal**: 
@@ -415,10 +428,10 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 - Be able to use the Bio3D package for exploratory analysis of protein  sequence-structure-function-dynamics relationships.    
 
 **Videos:**  
-- 9.1 - [Introduction to structural bioinformatics](https://www.youtube.com/watch?v=lLLXkdTl8aQ){:.no-push-state}{:target="_blank"},
-- 9.2 - [Visualization, interpretation and modeling of protein structure](https://www.youtube.com/watch?v=8GO9kUOPfMQ){:.no-push-state}{:target="_blank"},
+- 10.1 - [Introduction to structural bioinformatics](https://www.youtube.com/watch?v=lLLXkdTl8aQ){:.no-push-state}{:target="_blank"},
+- 10.2 - [Visualization, interpretation and modeling of protein structure](https://www.youtube.com/watch?v=8GO9kUOPfMQ){:.no-push-state}{:target="_blank"},
 
-- 9.3 - [The story of AlphaFold](https://www.youtube.com/watch?v=gg7WjuFs8F4){:.no-push-state}{:target="_blank"},  
+- 10.3 - [The story of AlphaFold](https://www.youtube.com/watch?v=gg7WjuFs8F4){:.no-push-state}{:target="_blank"},  
 
 
 
@@ -438,8 +451,8 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 
 ---
-<a name="10"></a>
-## 10: Structural Bioinformatics (pt2. Focus on new AlphaFold2)  
+<a name="99"></a>
+## X: Structural Bioinformatics (pt2. Focus on new AlphaFold2)  
 
 **Topics:** 
 The new age of structural biology. Structure prediction with AlphaFold2 and the importance of learning from Multiple Sequence Alignments (MSAs). ESM-Fold and large language models for protein structure. Modeling proteing energy as a function of structure.
@@ -449,18 +462,6 @@ The new age of structural biology. Structure prediction with AlphaFold2 and the 
 - ESM-Fold: [Metagenomic Atlas Fold Sequence](https://esmatlas.com/resources?action=fold){:target="_blank"}.  
 - Slides: [Small PDF]({{ site.baseurl }}/class-material/structural_bioinformatics_pt2.pdf){:.no-push-state}{:target="_blank"}.  
 
-
-
-
-
----
-<a name="33"></a>
-## BONUS: Halloween Candy Mini-Project
-
-**Topics:** 
-A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the analysis and visualization of high dimensional datasets.  
-
-- Lab: [Mini-Project: Exploratory analysis of Halloween cand]({{ site.baseurl }}/class-material/Halloween_candy.html){:.no-push-state}{:target="_blank"}.   
 
 
 
@@ -508,7 +509,12 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 
 ---
 <a name="12"></a>
-## 12: Transcriptomics and the analysis of RNA-Seq data
+## 12: Veterans Day Holiday
+
+
+---
+<a name="13"></a>
+## 13: Transcriptomics and the analysis of RNA-Seq data
 
 **Topics:** 
 Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statistics, Counts and FPKMs, Normalizing for sequencing depth, DESeq2 analysis. Gene finding and functional annotation from high throughput sequencing data, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.  
@@ -522,9 +528,9 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 - Perform a GO analysis to identify the pathways relevant to a set of genes (e.g. identified by transcriptomic study or a proteomic experiment). Use both Bioconductor packages and online tools to interpret gene lists and annotate potential gene functions.
 
 **Videos:**
-- 12.1 - [Differential expression analysis of RNA-Seq data](http://youtu.be/vn5Fy2VVWBw){:.no-push-state}{:target="_blank"},  
-- 12.2 - [Differential expression tests and pathway analysis](http://youtu.be/EIMK4TSnQLE){:.no-push-state}{:target="_blank"},    
-- 12.3 - [Installing Bioconductor and DESeq2](http://youtu.be/aekKXg0U1Rg){:.no-push-state}{:target="_blank"}.  
+- 13.1 - [Differential expression analysis of RNA-Seq data](http://youtu.be/vn5Fy2VVWBw){:.no-push-state}{:target="_blank"},  
+- 13.2 - [Differential expression tests and pathway analysis](http://youtu.be/EIMK4TSnQLE){:.no-push-state}{:target="_blank"},    
+- 13.3 - [Installing Bioconductor and DESeq2](http://youtu.be/aekKXg0U1Rg){:.no-push-state}{:target="_blank"}.  
 - Lab screencast - [Live video walk-through](https://youtu.be/HnT1YL_KxQk){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.      
 
 
@@ -550,8 +556,8 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 
 
 --- 
-<a name="13"></a>
-## 13: RNA-Seq analysis mini-project
+<a name="14"></a>
+## 14: RNA-Seq analysis mini-project
 
 **Topics:** 
 Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.  
@@ -561,14 +567,14 @@ Differential expression analysis project with DESeq2 followed by gene enrichment
 
 
 ---
-<a name="14"></a>
-## 14: Hands-on with Git and GitHub
+<a name="15"></a>
+## 15: Hands-on with Git and GitHub
 
 **Topics:** 
 Today’s lecture and hands-on sessions introduce Git, currently the most popular version control system. We will learn how to perform common operations with Git and RStudio. We will also cover syncing your bioinformatics work to date to GitHub.     
 
 **Videos:**  
-- 14.1 - OPTIONAL: [Git for humans](https://youtu.be/eWxxfttcMts){:.no-push-state}{:target="_blank"}, 
+- 15.1 - OPTIONAL: [Git for humans](https://youtu.be/eWxxfttcMts){:.no-push-state}{:target="_blank"}, 
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/slide_class16.pdf){:.no-push-state}{:target="_blank"},  
@@ -580,8 +586,13 @@ Submit yoour GitHub class repository URL on GradeScope.
 
 
 ---
-<a name="15"></a>
-## 15: Essential UNIX for bioinformatics
+<a name="16"></a>
+## 16: Thanksgiving holiday
+
+
+---
+<a name="17"></a>
+## 17: Essential UNIX for bioinformatics
 
 **Topics:** 
 Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX philosophy, 21 Key commands, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Organizing computational projects,  Going further with your own computer in the cloud, Launching and using AWS EC2 instances (A.K.A. Virtual Machines). 
@@ -597,10 +608,10 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 - Understand best practices for organizing computational projects.  
 
 **Videos:**
-- 15.1 - [Essential UNIX for bioinformatics I](http://youtu.be/qsDzjQm_Wp0){:.no-push-state}{:target="_blank"},  
-- 15.2 - [Essential UNIX for bioinformatics II](http://youtu.be/11t1GuZB77M){:.no-push-state}{:target="_blank"},  
-- 15.3 - [Manipulating files on UNIX machines](http://youtu.be/_jVgj6UutwA){:.no-push-state}{:target="_blank"}
-- 15.4 - [UNIX superpowers: using pipes and conecting to remote machines](http://youtu.be/AKLha-_IurU){:.no-push-state}{:target="_blank"}.            
+- 17.1 - [Essential UNIX for bioinformatics I](http://youtu.be/qsDzjQm_Wp0){:.no-push-state}{:target="_blank"},  
+- 17.2 - [Essential UNIX for bioinformatics II](http://youtu.be/11t1GuZB77M){:.no-push-state}{:target="_blank"},  
+- 17.3 - [Manipulating files on UNIX machines](http://youtu.be/_jVgj6UutwA){:.no-push-state}{:target="_blank"}
+- 17.4 - [UNIX superpowers: using pipes and conecting to remote machines](http://youtu.be/AKLha-_IurU){:.no-push-state}{:target="_blank"}.            
 
 
 **Supporting material:**
@@ -625,8 +636,8 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 
 
 ---
-<a name="16"></a>
-## 16: Analyzing sequencing data in the cloud
+<a name="18"></a>
+## 18: Analyzing sequencing data in the cloud
   
 **Topics:** 
 A mini-project whre we use bespoke cloud computing resources to query, download, decompress and analyze large data sets from NCBI’s main Sequence Read Archive (SRA). Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.  
@@ -637,8 +648,8 @@ A mini-project whre we use bespoke cloud computing resources to query, download,
 
 
 ---
-<a name="17"></a>
-## 17: Vaccination rate mini project
+<a name="X"></a>
+## X: Vaccination rate mini project
 
 **Topics:** 
 A topical mini-project using ggplot and dplyr on with the latest state wide COVID-19 vaccination data. Practical considerations and best practices for exploratory data analysis.  
@@ -649,8 +660,8 @@ A topical mini-project using ggplot and dplyr on with the latest state wide COVI
 
 
 ---
-<a name="18"></a>
-## 18: Mutational signatures of cancer mini project.  
+<a name="XX"></a>
+## X: Mutational signatures of cancer mini project.  
 
 **Topics:** 
 A mini-project focussing cancer genomics resources and bioinformatics tools for investigating the molecular basis of cancer and characterization of mutational signatures. Large scale cancer sequencing projects; The Cancer Genome Atlas; the cBioPortal platform; COSMIC; de novo extraction and assignment of mutational signatures.
