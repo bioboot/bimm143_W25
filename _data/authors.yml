@@ -93,7 +93,7 @@ ileena:
 #   a *piazza later in this ymal data file.
 #  TODO: uodate GRADEBOOK student and instructor link & OFICEHOUR
 corelinks:
-  syllabus:       &syllabus /class-material/BIMM143_S23_syllabus.pdf
+  syllabus:       &syllabus /class-material/BIMM143_F23_syllabus.pdf
   piazza:         *piazza 
   gradescope:     *gradescope 
   youtube:        *youtube 
