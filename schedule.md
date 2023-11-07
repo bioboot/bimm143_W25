@@ -436,12 +436,7 @@ A fun and topical mini-project with unsupervised learning analysis of halloween_
 
 **Material**:  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture11-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture11-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on structural bioinformatics analysis (pt. 1)]({{ site.baseurl }}/class-material/pdb_pca_labclass.html){:.no-push-state}{:target="_blank"},  
-
-- Software link: [MUSCLE download](https://www.drive5.com/muscle/downloads.htm){:.no-push-state}{:target="_blank"}, 
-- Alternate Windows install and setup cmd: `curl -o "muscle.exe" "https://www.drive5.com/muscle/downloads3.8.31/muscle3.8.31_i86win32.exe"`   
-- Alternative Mac install and setup cmd: `sudo curl -o "/usr/local/bin/muscle" "http://thegrantlab.org/misc/muscle"; sudo chmod +x /usr/local/bin/muscle`  
-- Alternative M1 Mac install and setup cmd: `sudo curl -o "/usr/local/bin/muscle" "http://thegrantlab.org/misc/m1/muscle"; sudo chmod +x /usr/local/bin/muscle`  
+- Lab: [Hands-on structural bioinformatics analysis (pt. 1)]({{ site.baseurl }}/class-material/pdb_pca_labclass.html){:.no-push-state}{:target="_blank"},    
 - Feedback: [Muddy point assessment](https://forms.gle/3eDPRMCZt23rGNaH8){:.no-push-state}.   
 
 
