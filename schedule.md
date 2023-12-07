@@ -681,7 +681,7 @@ A topical mini-project using web-scraping, JSON based APIs and advanced dplyr an
 
 ---
 <a name="20"></a>
-## 20: GitHub pages online portfolio completion plus bonus Bioinformatics in industry session
+## 20: GitHub pages, online portfolio completion, GitHub copilot plus bonus Bioinformatics in industry session
 
 **Topics:** 
 Today’s lecture and hands-on sessions introduce Git, currently the most popular version control system. We will learn how to perform common operations with Git and RStudio. We will also cover making a public facing GitHub pages portfolio of your bioinformatics work. Project assignment troubleshooting. Discussion of Bioinformatics and genomics career opportunities.     
