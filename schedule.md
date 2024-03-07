@@ -632,31 +632,6 @@ A mini-project whre we use bespoke cloud computing resources to query, download,
 
 
 ---
-<a name="X"></a>
-## X: Vaccination rate mini project
-
-**Topics:** 
-A topical mini-project using ggplot and dplyr on with the latest state wide COVID-19 vaccination data. Practical considerations and best practices for exploratory data analysis.  
-
-- Lab: [COVID-19 vaccination rates mini-project]({{ site.baseurl }}/class-material/vaccines.html){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**,  
-- Data files: [Statewide COVID-19 Vaccines Administered by ZIP Code](https://data.ca.gov/dataset/covid-19-vaccine-progress-dashboard-data-by-zip-code){:.no-push-state}{:target="_blank"}, 
-
-
-
----
-<a name="XX"></a>
-## X: Mutational signatures of cancer mini project.  
-
-**Topics:** 
-A mini-project focussing cancer genomics resources and bioinformatics tools for investigating the molecular basis of cancer and characterization of mutational signatures. Large scale cancer sequencing projects; The Cancer Genome Atlas; the cBioPortal platform; COSMIC; de novo extraction and assignment of mutational signatures.
-
-- Lecture Slides: [Pt. 1]({{ site.baseurl }}/class-material/Mutational_signatures_lecture_BIMM143_WI23_part1.pdf){:.no-push-state}{:target="_blank"}, [Pt. 2]({{ site.baseurl }}/class-material/Mutational_signatures_lecture_BIMM143_WI23_part2.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: *[Investigating mutational signatures of cancer]({{ site.baseurl }}/class-material/Mutational_Signatures.html){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**,  
-- The [cBioPortal](https://www.cbioportal.org/){:.no-push-state}{:target="_blank"} platform .
-- Matirces [lung.txt]({{ site.baseurl }}/class-material/lung.txt){:.no-push-state}, [skin.txt]({{ site.baseurl }}/class-material/skin.txt){:.no-push-state}, [liver.txt]({{ site.baseurl }}/class-material/liver.txt){:.no-push-state}.  
-
-
----
 <a name="18"></a>
 ## 18: Mini Project: Investigating Pertussis Resurgence 
 
@@ -664,7 +639,8 @@ A mini-project focussing cancer genomics resources and bioinformatics tools for 
 A topical mini-project using web-scraping, JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to distinct vaccination strategies.  
 
 - Lab: [Investigating pertussis resurgence mini-project](https://bioboot.github.io/cmi-pb_teaching/introduction/intro_to_cmi-pb.html){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**,  
-- Additional resources: [CDC pertussis tracking data](https://www.cdc.gov/pertussis/surv-reporting/cases-by-year.html){:.no-push-state}{:target="_blank"}, The [CMI-PB resource]( https://www.cmi-pb.org/){:.no-push-state}{:target="_blank"}, 
+- Additional resources: [CDC pertussis tracking data](https://www.cdc.gov/pertussis/surv-reporting/cases-by-year.html){:.no-push-state}{:target="_blank"}, The [CMI-PB resource]( https://www.cmi-pb.org/){:.no-push-state}{:target="_blank"},  
+- Timeline: [Major milestones in our history with Pertussis](https://bioboot.github.io/cmi-pb_teaching/timeline/pertussis_timeline.html){:.no-push-state}{:target="_blank"},  
 - Feedback: [Muddy-Point-Assessment](https://goo.gl/forms/gMxIBT5jLbjXHQPE2){:.no-push-state}.
 
 
