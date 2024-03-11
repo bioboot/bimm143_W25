@@ -653,18 +653,18 @@ A topical mini-project using web-scraping, JSON based APIs and advanced dplyr an
 
 ---
 <a name="19"></a>
-## 19: Mini Project: CMI-PB Prediction Challenge 
+## 19: Mini Project: Cancer Mutation Analysis 
 
 **Topics:** 
-A topical mini-project using web-scraping, JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to distinct vaccination strategies.  
+A mini-project analysis of NGS data on tumor specific mutations.   
 
-- Lab: [Machine learning with tidymodels](){:.no-push-state}{:target="_blank"} **submit your lab report to gradescope**,  
-- Additional resources: The [CMI-PB resource]( https://www.cmi-pb.org/){:.no-push-state}{:target="_blank"}, 
+- Lab: [Machine learning with tidymodels]({{ site.baseurl }}/class-material/class19.pdf){:.no-push-state}{:target="_blank"},  
+- Additional resources: [Student Specific Sequences]({{ site.baseurl }}/class-material/lab19_sequence_listing.html){:.no-push-state}{:target="_blank"},  
 - Feedback: [Muddy-Point-Assessment](https://goo.gl/forms/gMxIBT5jLbjXHQPE2){:.no-push-state}.
 
 
 **Homework**:   
--  Generate a complete lab report with all sections and question responses for submission to gradescope.  
+- Upload your completed labsheet PDF to GradeScope.  
 - There are no homework quiz questions this week.
 
 
