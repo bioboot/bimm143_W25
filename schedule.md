@@ -32,7 +32,7 @@ For the Winter 2024 quarter we will meet twice a week on Tuesday and Thursday at
 | 16  | Thu 02/29/24 | [**Essential UNIX for bioinformatics**](#16) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
 | 17  | Tue 03/05/24  | [**Analyzing sequencing data in the cloud**](#17) <br> A mini-project using AWS EC2 to query, download, decompress and analyze large data sets from the Sequence Read Archive. Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.                                                                                                                                                                                                                                      |
 | 18  | Thu 03/07/24  | [**Investigating pertussis resurgence mini project**](#18) <br> A topical mini-project using web-scraping,JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to vaccination.                                                                                                                                   |
-| 19  | Tue 03/12/24  | [**CMI-PB prediction challenge**](#19) <br> Using machine learning methods to predict the immune response to pertussis vaccination. Working with CMI-PB data and submitting predictions.                                                                                                                                   |
+| 19  | Tue 03/12/24  | [**Cancer mutation analysis mini project**](#19) <br> A mini-project putting together skills from different classes for the independent analysis of NGS data on tumor specific mutations.                                                                                                                        |
 | 20 | Thu 03/14/24 | [**Portfolio building and discussion of bioinformatics in industry**](#20) <br>Course summary and review, Making a public facing GitHub pages portfolio of your bioinformatics work; <br> Livestream interview with leading bioinformatics and genomics scientists from industry. <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
 
 
@@ -656,11 +656,11 @@ A topical mini-project using web-scraping, JSON based APIs and advanced dplyr an
 ## 19: Mini Project: Cancer Mutation Analysis 
 
 **Topics:** 
-A mini-project analysis of NGS data on tumor specific mutations.   
+A mini-project for independent analysis of NGS data on tumor specific mutations.   
 
-- Lab: [Machine learning with tidymodels]({{ site.baseurl }}/class-material/class19.pdf){:.no-push-state}{:target="_blank"},  
+- Lab: [Class 19 labsheet PDF]({{ site.baseurl }}/class-material/lab19.pdf){:.no-push-state}{:target="_blank"},  
 - Additional resources: [Student Specific Sequences]({{ site.baseurl }}/class-material/lab19_sequence_listing.html){:.no-push-state}{:target="_blank"},  
-- Feedback: [Muddy-Point-Assessment](https://goo.gl/forms/gMxIBT5jLbjXHQPE2){:.no-push-state}.
+- Feedback: [Muddy-Point-Assessment](){:.no-push-state}.
 
 
 **Homework**:   
