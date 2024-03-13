@@ -23,7 +23,7 @@ A total of 35% of the course grade will be assigned based on the“find-a-gene p
 
 
 ## Final Exam:  
-There will be NO final exam for the Winter 2024 quarter.   
+There will be NO final exam for this quarter.   
 
 ## Assignment due dates:
 A complete listing of class assignments along with anticipated due dates is [available here](https://docs.google.com/spreadsheets/d/1kNnWUvlcRsLHvdncGEU__oMmB8aaRNDjnJ0AmSY31Ao/edit?usp=sharing){:.no-push-state}{:target="_blank"}. Typically, assignments are due 12PM San Diego time on the Monday following class (whether that is Tue or Thur). Note that these dates are subject to change and will likely not be updated in the afore linked listing. Please see GradeScope for the most updated listing. As always, **"if in doubt, reach out"** and contact us on piazza.
