@@ -26,20 +26,19 @@ A total of 35% of the course grade will be assigned based on the“find-a-gene p
 There will be NO final exam for this quarter.   
 
 ## Assignment due dates:
-A complete listing of class assignments along with anticipated due dates is [available here](https://docs.google.com/spreadsheets/d/1kNnWUvlcRsLHvdncGEU__oMmB8aaRNDjnJ0AmSY31Ao/edit?usp=sharing){:.no-push-state}{:target="_blank"}. Typically, assignments are due 12PM San Diego time on the Monday following class (whether that is Tue or Thur). Note that these dates are subject to change and will likely not be updated in the afore linked listing. Please see GradeScope for the most updated listing. As always, **"if in doubt, reach out"** and contact us on piazza.
+A complete listing of class assignments along with anticipated due dates is [available here](https://docs.google.com/spreadsheets/d/1CQnOczOAVKivvZ-QszsqFpLRJkoC7NcweUDA3RdUEzM/edit?usp=sharing){:.no-push-state}{:target="_blank"}. Typically, assignments are due 12PM San Diego time on the Monday following class (whether that is Tue or Thur). Note that these dates are subject to change and will likely not be updated in the afore linked listing. Please see GradeScope for the most updated listing. As always, **"if in doubt, reach out"** and contact us on piazza.
+
 
 
 <br>
-<iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8CP476rTQM_eCG5CPKjcCRBJT5bB536my2m73GH3URCroOWdbrj1ClY0zSvG7uQcLTW8iHHzT4Mgp/pubhtml?gid=442644877&single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRV9DGJuOC-lan3NYo8Q-_aHDog2Iosw1cOuGF80N9qc0SSE4gNgG7TP_pT_OOjUsmmp9Bu0qWSVFsw/pubhtml?gid=442644877&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 <br>
-
-
 
 Course Director
 : [Prof. Barry J. Grant](http://thegrantlab.org/) (Email: [bjgrant@ucsd.edu](mailto:bjgrant@ucsd.edu))
 
 Course Syllabus
-: [Winter 2024 (PDF)]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}
+: [Spring 2024 (PDF)]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}
 {:.message}
 
  
