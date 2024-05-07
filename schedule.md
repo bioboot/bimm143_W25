@@ -24,8 +24,8 @@ For the Spring 2024 quarter we will meet twice a week on Tuesday and Thursday at
 | 8  | Thu 04/25/24 | [**Unsupervised learning mini-project**](#8) <br> Longer hands-on session with unsupervised learning analysis of cancer cells further highlighting Practical considerations and best practices for the analysis and visualization of high dimensional datasets                                                                                                                                                                                                            |
 | 9 | Tue 04/30/24 | [**Halloween Candy Mini-Project**](#9) <br> A fun and topical mini-project with unsupervised learning analysis of halloween_candy, Practical considerations and best practices for the exploratory analysis and visualization of high dimensional datasets.                                                                                                                                                                              |
 | 10 | Thu 05/02/24  | [**Structural Bioinformatics (pt1)**](#10) <br> Comparative structure and sequence analysis. Working with sequence and structure data in R. (If time allows) Protein motion and conformational variants, Molecular simulation and small molecule docking and drug optimization.                                                                                                                                                                                                                                             |
-| 11 | Tue 05/07/24 | [**Structural Bioinformatics (pt2 AlphaFold)**](#11) <br> The new age of structural biology. Structure prediction with AlphaFold2 and the importance of learning from Multiple Sequence Alignments (MSAs). ESM-Fold and large language models for protein structure.                                                                                                                                                                              |
-| 12| Thu 05/09/24 | [**Genome informatics and high throughput sequencing**](#12) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC <br> **N.B.** This is an online session\!                                                                                                                                                                              |
+| 11 | Tue 05/07/24 | [**Genome informatics and high throughput sequencing**](#11) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC <br> **N.B.** This is an online session\!                                                                                                                                                                                  |
+| 12| Thu 05/09/24 | [**Structural Bioinformatics (pt2 AlphaFold)**](#12) <br> The new age of structural biology. Structure prediction with AlphaFold2 and the importance of learning from Multiple Sequence Alignments (MSAs). ESM-Fold and large language models for protein structure.                                                                                                                                               |
 | 13  | Tue 05/14/24 | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#13) <br> RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene functional annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.                                                                                                                                                                                                                                               |
 | 14  |  Thu 05/16/24 | [**RNA-Seq mini project**](#14) <br> Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.                                                                                                                                                                                                                                                                                  |
 | 15  | Tue 05/21/24  | [**Hands-on with Git and GitHub**](#15) <br> Why you should use a version control system, How to perform common operations with Git. Creating and working with your own GitHub repos and navagating and using those of others.                                                                      |
@@ -446,23 +446,7 @@ A fun and topical mini-project with unsupervised learning analysis of halloween_
 
 ---
 <a name="11"></a>
-## 11: Structural Bioinformatics (pt2. Focus on new AlphaFold2)  
-
-**Topics:** 
-The new age of structural biology. Structure prediction with AlphaFold2 and the importance of learning from Multiple Sequence Alignments (MSAs). ESM-Fold and large language models for protein structure. Modeling protein energy as a function of structure.
-
-- Lab: [Protein Structure Prediction with AlphaFold]({{ site.baseurl }}/class-material/class11_alphafold.html){:.no-push-state}{:target="_blank"},  
-- AlphaFold: [ColabFold Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb){:target="_blank"},  
-- ESM-Fold: [Metagenomic Atlas Fold Sequence](https://esmatlas.com/resources?action=fold){:target="_blank"}.  
-- Slides: [Small PDF]({{ site.baseurl }}/class-material/structural_bioinformatics_pt2.pdf){:.no-push-state}{:target="_blank"}.  
-
-
-
-
-
----
-<a name="12"></a>
-## 12: Genome informatics
+## 11: Genome informatics
 
 **Topics:** 
 Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio, Illumina, toward the $500 human genome), Biological applications of sequencing, Variation in the genome, RNA-Sequencing for gene expression analysis; Major genomic databases, tools and visualization resources from the EBI & UCSC, The Galaxy platform for quality control and analysis; Sample Galaxy RNA-Seq workflow with FastQC and Bowtie2. **N.B.** This is an **online-only class session**.  
@@ -476,10 +460,10 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 - Understand the SAM/BAM file format and the information it holds.  
 
 **Videos:**  
-- 12.1 - [Introduction to genomics](http://youtu.be/QWOYBFfsKIE){:.no-push-state}{:target="_blank"},   
-- 12.2 - [Sequencing methods](https://www.ibiology.org/techniques/dna-sequencing/){:.no-push-state}{:target="_blank"} from Jonathan Weissman (UCSF),    
-- 12.3 - [The basics of RNASeq work-flows](http://youtu.be/PCn9GiD4cUI){:.no-push-state}{:target="_blank"},   
-- 12.4 - Optional: [Lessons from the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4){:.no-push-state}{:target="_blank"}.   
+- 11.1 - [Introduction to genomics](http://youtu.be/QWOYBFfsKIE){:.no-push-state}{:target="_blank"},   
+- 11.2 - [Sequencing methods](https://www.ibiology.org/techniques/dna-sequencing/){:.no-push-state}{:target="_blank"} from Jonathan Weissman (UCSF),    
+- 11.3 - [The basics of RNASeq work-flows](http://youtu.be/PCn9GiD4cUI){:.no-push-state}{:target="_blank"},   
+- 11.4 - Optional: [Lessons from the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4){:.no-push-state}{:target="_blank"}.   
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture13_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture13_BIMM143-small.pdf){:.no-push-state}{:target="_blank"},
@@ -496,6 +480,20 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 
 **Homework**:   
 - **Population analysis**: Submit to GradeScope your RMarkdown/Quarto generated PDF with working code, output and narrative text answering Q13 and Q14 in this weeks [Hands-on section worksheet]({{ site.baseurl }}/class-material/wk8_genomics_lab.pdf){:.no-push-state}{:target="_blank"}.  
+
+
+
+---
+<a name="12"></a>
+## 12: Structural Bioinformatics (pt2. Focus on new AlphaFold2)  
+
+**Topics:** 
+The new age of structural biology. Structure prediction with AlphaFold2 and the importance of learning from Multiple Sequence Alignments (MSAs). ESM-Fold and large language models for protein structure. Modeling protein energy as a function of structure.
+
+- Lab: [Protein Structure Prediction with AlphaFold]({{ site.baseurl }}/class-material/class11_alphafold.html){:.no-push-state}{:target="_blank"},  
+- AlphaFold: [ColabFold Notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb){:target="_blank"},  
+- ESM-Fold: [Metagenomic Atlas Fold Sequence](https://esmatlas.com/resources?action=fold){:target="_blank"}.  
+- Slides: [Small PDF]({{ site.baseurl }}/class-material/structural_bioinformatics_pt2.pdf){:.no-push-state}{:target="_blank"}.  
 
 
 
