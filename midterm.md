@@ -29,15 +29,12 @@ ite.baseurl }}/class-material/schedule/#21){:.no-push-state}.
 There will be NO final exam for this quarter.   
 
 ## Assignment due dates:
-A complete listing of class assignments along with anticipated due dates is [available here](https://docs.google.com/spreadsheets/d/1beO0_kZGsZevErpnOFAq8W_5VOQ
-9JsLJVQzYgW8rAXc/pubhtml){:.no-push-state}{:target="_blank"}. Typically, assignments are due 12PM San Diego time on the Monday following class (whether that is Tue or Thur). Note that these dates are subject to change and will likely not be updated in the afore linked listing. Please see GradeScope for the most updated listing. As always, **"if in doubt, reach out"** and contact us on piazza.
+A complete listing of class assignments along with anticipated due dates is [available here](https://docs.google.com/spreadsheets/d/1beO0_kZGsZevErpnOFAq8W_5VOQ9JsLJVQzYgW8rAXc/pubhtml){:.no-push-state}{:target="_blank"}. Typically, assignments are due 12PM San Diego time on the Monday following class (whether that is Tue or Thur). Note that these dates are subject to change and will likely not be updated in the afore linked listing. Please see GradeScope for the most updated listing. As always, **"if in doubt, reach out"** and contact us on piazza.
 
 
 
 <br>
-<iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/1
-beO0_kZGsZevErpnOFAq8W_5VOQ9JsLJVQzYgW8rAXc/pubhtml?gid=442644877&single=true&am
-p;widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/1beO0_kZGsZevErpnOFAq8W_5VOQ9JsLJVQzYgW8rAXc/pubhtml?gid=442644877&single=true&amp;widget=true&amp;headers=false"></iframe>
 <br>
 
 Course Director
