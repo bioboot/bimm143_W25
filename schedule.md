@@ -628,16 +628,22 @@ A mini-project whre we use bespoke cloud computing resources to query, download,
 
 
 
-
 ---
 <a name="18"></a>
-## 18: Hands-on with Git and GitHub
+## 18: Happy Thanksgiving  
+
+No class today.  
+
+
+---
+<a name="19"></a>
+## 19: Hands-on with Git and GitHub
 
 **Topics:** 
 Today’s lecture and hands-on sessions introduce Git, currently the most popular version control system. We will learn how to perform common operations with Git and RStudio. We will also cover syncing your bioinformatics work to date to GitHub.     
 
 **Videos:**  
-- 18.1 - OPTIONAL: [Git for humans](https://youtu.be/eWxxfttcMts){:.no-push-state}{:target="_blank"}, 
+- 19.1 - OPTIONAL: [Git for humans](https://youtu.be/eWxxfttcMts){:.no-push-state}{:target="_blank"}, 
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/slide_class16.pdf){:.no-push-state}{:target="_blank"},  
@@ -647,23 +653,6 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 **Homework**:   
 Submit yoour GitHub class repository URL on GradeScope.  
 
-
-
----
-<a name="19"></a>
-## 19: Mini Project: Cancer Mutation Analysis 
-
-**Topics:** 
-A mini-project for independent analysis of NGS data on tumor specific mutations.   
-
-- Lab: [Class 19 labsheet PDF]({{ site.baseurl }}/class-material/lab19.pdf){:.no-push-state}{:target="_blank"},  
-- Additional resources: [Student Specific Sequences]({{ site.baseurl }}/class-material/lab19_sequence_listing.html){:.no-push-state}{:target="_blank"},  
-- Feedback: [Muddy-Point-Assessment](){:.no-push-state}.
-
-
-**Homework**:   
-- Upload your completed labsheet PDF to GradeScope.  
-- There are no homework quiz questions this week.
 
 
 
@@ -703,5 +692,21 @@ Or student topic of choice to be selected from those below:
 - Advanced RMarkdown 
 - Creating online work portfolios with GitHub-pages    
 
+
+---
+<a name="21"></a>
+## 21: SKIPPED Mini Project: Cancer Mutation Analysis 
+
+**Topics:** 
+A mini-project for independent analysis of NGS data on tumor specific mutations.   
+
+- Lab: [Class 19 labsheet PDF]({{ site.baseurl }}/class-material/lab19.pdf){:.no-push-state}{:target="_blank"},  
+- Additional resources: [Student Specific Sequences]({{ site.baseurl }}/class-material/lab19_sequence_listing.html){:.no-push-state}{:target="_blank"},  
+- Feedback: [Muddy-Point-Assessment](){:.no-push-state}.
+
+
+**Homework**:   
+- Upload your completed labsheet PDF to GradeScope.  
+- There are no homework quiz questions this week.
 
 
