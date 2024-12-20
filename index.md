@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Bioinformatics <br> (BIMM 143, Fall 2024)
+title: Bioinformatics <br> (BIMM 143, Winter 2025)
 ---
 
 ## Overview
