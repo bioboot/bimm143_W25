@@ -31,8 +31,8 @@ For the Winter 2025 quarter we will meet twice a week on Tuesday and Thursday at
 | 15  | Tue 02/25/25  | [**Hands-on with Git and GitHub**](#15) <br> Why you should use a version control system, How to perform common operations with Git. Creating and working with your own GitHub repos and navagating and using those of others.                                                                      |
 | 16  | Thu 02/27/25 | [**Essential UNIX for bioinformatics**](#16) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
 | 17  | Tue 03/04/25  | [**Analyzing sequencing data in the cloud**](#17) <br> A mini-project using AWS EC2 to query, download, decompress and analyze large data sets from the Sequence Read Archive. Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.                                                                                                                                                                                                                                      |
-| 18  | Thu 03/06/25 | [**TBD**](#18) <br> To Be Determined By Class Vote!         |
-| 19  | Tue 03/11/25 | [**Investigating pertussis resurgence mini project**](#19) <br> A topical mini-project using web-scraping,JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to vaccination.                                                                                                                                   |
+| 18  | Thu 03/06/25 | [**Investigating pertussis resurgence mini project**](#18) <br> A topical mini-project using web-scraping,JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to vaccination.                                                                                                                                   |
+| 19  | Tue 03/11/25 | [**Mini Project: Cancer Mutation Analysis**](#19) <br> A mini-project for independent analysis of NGS data on tumor specific mutations.  |
 | 20 | Thu 03/13/25 | [**Portfolio building and discussion of bioinformatics in industry**](#20) <br>Course summary and review, Making a public facing GitHub pages portfolio of your bioinformatics work; <br> Livestream interview with leading bioinformatics and genomics scientists from industry. <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
 
 
@@ -632,23 +632,7 @@ A mini-project whre we use bespoke cloud computing resources to query, download,
 
 ---
 <a name="18"></a>
-## 18: Class content to be determined by student vote   
-
-Student topic of choice to be selected from those below:
-
-- Biological network analysis
-- Cancer genomics
-- Unix tips and tricks for Bioinformatics
-- Structural Bioinformatics and computational drug design
-- Introduction to the tidyverse 
-- Writing R packages
-- Advanced RMarkdown 
-- Creating online work portfolios with GitHub-pages    
-
-
----
-<a name="19"></a>
-## 19: Mini Project: Investigating Pertussis Resurgence 
+## 18: Mini Project: Investigating Pertussis Resurgence 
 
 **Topics:** 
 A topical mini-project using web-scraping, JSON based APIs and advanced dplyr and ggplot to investigate brand new datasets associated with pertussis cases and longitudinal RNA-Seq on the immune response to distinct vaccination strategies.  
@@ -664,6 +648,24 @@ A topical mini-project using web-scraping, JSON based APIs and advanced dplyr an
 **Homework**:   
 -  Generate a complete lab report with all sections and question responses for submission to gradescope.  
 - There are no homework quiz questions this week.
+
+
+---
+<a name="19"></a>
+## 19: Mini Project: Cancer Mutation Analysis 
+
+**Topics:** 
+A mini-project for independent analysis of NGS data on tumor specific mutations.   
+
+- Lab: [Class 19 labsheet PDF]({{ site.baseurl }}/class-material/lab19.pdf){:.no-push-state}{:target="_blank"},  
+- Additional resources: [Student Specific Sequences]({{ site.baseurl }}/class-material/lab19_sequence_listing.html){:.no-push-state}{:target="_blank"},  
+- Feedback: [Muddy-Point-Assessment](){:.no-push-state}.
+
+
+**Homework**:   
+- Upload your completed labsheet PDF to GradeScope.  
+- There are no homework quiz questions this week.
+
 
 
 ---
