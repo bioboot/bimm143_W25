@@ -677,7 +677,7 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 
 **Videos:**  
 - 20.1 - OPTIONAL: [Git for humans](https://youtu.be/eWxxfttcMts){:.no-push-state}{:target="_blank"}, 
-- 20.2 [Introduction to GitHub Pages](https://youtu.be/2MsN8gpT6jY){:.no-push-state}{:target="_blank"} that we will use for building your portfolio website.
+- 20.2 [Turn on GitHub Pages](https://youtu.be/DqjPr7auwdY){:.no-push-state}{:target="_blank"} that we will use for building your portfolio website.
 - 20.3 [Alternate GitHub Pages intro](https://youtu.be/QyFcl_Fba-k?si=IHyfW93gUAG2Uvub){:.no-push-state}{:target="_blank"} with a basic HTML page rather than Jekyll generated content.  
 - 20.4 [**Live stream interview**](https://youtu.be/UFYeovcGcwY){:.no-push-state}{:target="_blank"} with leading bioinformatics and genomics scientists from industry including **Dr Ali Crawford** (Associate Director, Scientific Research, *Illumina Inc.*), **Dr. Bjoern Peters** (Full Professor and Principal Investigator, *La Jolla Institute*) and **Dr. Ana Grant** (Director of Research Informatics, *Synthetic Genomics Inc.*).
 
@@ -693,21 +693,5 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 
 
 
-
----
-<a name="21"></a>
-## 21: SKIPPED Mini Project: Cancer Mutation Analysis 
-
-**Topics:** 
-A mini-project for independent analysis of NGS data on tumor specific mutations.   
-
-- Lab: [Class 19 labsheet PDF]({{ site.baseurl }}/class-material/lab19.pdf){:.no-push-state}{:target="_blank"},  
-- Additional resources: [Student Specific Sequences]({{ site.baseurl }}/class-material/lab19_sequence_listing.html){:.no-push-state}{:target="_blank"},  
-- Feedback: [Muddy-Point-Assessment](){:.no-push-state}.
-
-
-**Homework**:   
-- Upload your completed labsheet PDF to GradeScope.  
-- There are no homework quiz questions this week.
 
 
